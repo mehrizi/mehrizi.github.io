@@ -10,3 +10,6 @@ You can find about me from two points:
    - Github: [https://github.com/mehrizi/multi-event](https://github.com/mehrizi/multi-event)
 - My CV codebase:
    - Github: [https://github.com/mehrizi/keyboard](https://github.com/mehrizi/keyboard)
+- A simple reactive puzzle
+   - Demo [https://mehrizi.github.io/slide-puzzle](https://mehrizi.github.io/slide-puzzle)
+   - Github: [https://github.com/mehrizi/slide-puzzle](https://github.com/mehrizi/slide-puzzle)

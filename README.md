@@ -14,5 +14,5 @@ You can find about me from two points:
    - Demo: [https://mehrizi.github.io/slide-puzzle](https://mehrizi.github.io/slide-puzzle)
    - Github: [https://github.com/mehrizi/slide-puzzle](https://github.com/mehrizi/slide-puzzle)
 - Scrolling Tabs (React Component)
-   - Demo: [https://mehrizi.github.io/scrolling-tabs/](https://mehrizi.github.io/scrolling-tabs/)
-   - Github: [https://github.com/mehrizi/scrolling-tabs](https://github.com/mehrizi/scrolling-tabs)
+   - Demo: [https://tabs.js.org/](https://tabs.js.org/)
+   - Github: [https://github.com/mehrizi/tabs](https://github.com/mehrizi/tabs)
